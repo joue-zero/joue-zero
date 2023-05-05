@@ -11,7 +11,7 @@
 
 - 👨‍💻 Now, I'am learning and make applications for full-stack development
 
-- 📫 How to reach me **elnaggaryoussef864@gmail.com**
+- 📫 How to reach me **elnagaryoussef864@gmail.com**
 
 - 📄 Know about my experiences
 
