@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studing At FCAI, Cairo University.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** & **NodeJS**
 
 - 👨‍💻 Now, I'am learning and make applications for full-stack development
 
