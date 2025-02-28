@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studing At CIS, Temple University.
 
-- 🌱 I’m currently learning **React** & **NodeJS**
+- 🌱 I’m currently learning **React** & **Laravel**
 
 - 👨‍💻 Now, I'am learning and make applications for full-stack development
 
